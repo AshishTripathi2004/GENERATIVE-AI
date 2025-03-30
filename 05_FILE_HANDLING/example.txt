@@ -1,0 +1,23 @@
+This is the new content.
+The contents have been overriden.
+This is the appended line...
+
+SHOPPING LIST
+========================================
+--coffee
+--tea
+--sugar
+--flour
+--eggs
+--wafers
+--oil
+SHOPPING LIST
+========================================
+--coffee
+--tea
+--sugar
+--flour
+--eggs
+--wafers
+--oil
+coffeeteasugarfloureggswafersoil
