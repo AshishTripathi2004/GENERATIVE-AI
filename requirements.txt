@@ -1,3 +1,8 @@
 ipykernel
+pandas
+numpy 
+matplotlib
+seaborn
 streamlit
 nltk
+sklearn
