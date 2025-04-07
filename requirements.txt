@@ -7,3 +7,5 @@ streamlit
 nltk
 sklearn
 gensim
+tensorflow
+keras
