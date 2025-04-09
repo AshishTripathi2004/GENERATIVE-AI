@@ -2,10 +2,9 @@ ipykernel
 pandas
 numpy 
 matplotlib
-seaborn
 streamlit
 nltk
-sklearn
+scikit-learn
 gensim
 tensorflow
 keras
