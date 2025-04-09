@@ -8,3 +8,4 @@ scikit-learn
 gensim
 tensorflow
 keras
+scikeras
